@@ -1,0 +1,10 @@
+1. Even or Odd
+Take a number from the user and check whether it is even or odd.
+2. Simple Calculator
+Take two numbers and an operator (+, -, *, /) from the user. Perform the selected operation and display the result.
+3. Student Marks
+Take marks of 3 subjects from the user. Calculate the total and percentage, then display Pass if the percentage is 50 or above, otherwise display Fail.
+4. Favorite Fruits
+Create a list of 5 fruits. Ask the user to enter a fruit and check whether that fruit exists in the list or not.
+5. Student Information
+Create a dictionary containing a student's name, age, and favorite subject. Display all the information and use a condition to check whether the student's age is 18 or above.
